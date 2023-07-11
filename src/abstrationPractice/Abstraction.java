@@ -4,6 +4,7 @@ abstract class Supper
 {
 	public Supper()
 	{
+		//hgfvfhgsfhjsbjhbdj
 		System.out.println("Supper class constraction");
 	}
 	
